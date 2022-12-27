@@ -1,0 +1,64 @@
+
+b
+java:S1192Œ"FDefine a constant instead of duplicating this literal "Name:" 3 times.(æ€İøÿÿÿÿ
+l
+java:S1192Œ"PDefine a constant instead of duplicating this literal "OpeningAccount:" 3 times.(æ€İøÿÿÿÿ
+k
+java:S1192Œ"ODefine a constant instead of duplicating this literal "ContactNumber:" 3 times.(æ€İøÿÿÿÿ
+\
+java:S1192›"FDefine a constant instead of duplicating this literal "Price" 4 times.(ŒÚ· 
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+„
+java:S4165!"iRemove this useless assignment; "purchaseMap" already holds the assigned value along all execution paths.(îĞôÕøÿÿÿÿ
+
+java:S4165)"iRemove this useless assignment; "purchaseMap" already holds the assigned value along all execution paths.(•€ºŞ
+„
+java:S4165"iRemove this useless assignment; "purchaseMap" already holds the assigned value along all execution paths.(¶è”úÿÿÿÿ
+d	java:S116"ORename this field "p_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ«„¥
+o	java:S116"ZRename this field "p_purchaseprice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ«„¥
+T
+java:S1659">Declare "m" and all following declarations on a separate line.(Œ«„¥
+Y
+java:S1659"CDeclare "check2" and all following declarations on a separate line.(å¤ˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å«¸Ûûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©•ó¶úÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(–¬
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ı¥ı€úÿÿÿÿ
+M	java:S106F"9Replace this use of System.out or System.err by a logger.(ŒÖ¹`
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(˜§¾¬ÿÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(õíÀÈùÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Ú¨£üÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(É‰ïÜúÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Ëößÿÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(É‰ïÜúÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(Ëößÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸Àäÿÿÿÿÿ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(¤Äš>
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(æ€İøÿÿÿÿ
+N	java:S106›"9Replace this use of System.out or System.err by a logger.(ŒÚ· 
+L
+java:S1172¥"5Remove these unused method parameters "cmap", "pmap".(ˆ£”¢
+N	java:S106©"9Replace this use of System.out or System.err by a logger.(Ëàä	
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÿØ¡¡
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(Ë™•“ÿÿÿÿÿ
+8
+java:S1116®"Remove this empty statement.(Ë™•“ÿÿÿÿÿ
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(ï„±ˆ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(åĞ¦ø
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(Çôó
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(‚æ÷—øÿÿÿÿ
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(š‘¤ÿÿÿÿÿ
+Q
+java:S1172Ò"5Remove these unused method parameters "cmap", "pmap".(ş†¥Ïùÿÿÿÿ
+T	java:S106×"9Replace this use of System.out or System.err by a logger.(Ë™•“ÿÿÿÿÿ
+8
+java:S1116×"Remove this empty statement.(Ë™•“ÿÿÿÿÿ
+O	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ï„±ˆ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(Ê³¯Êıÿÿÿÿ
+X
+java:S1172î"ARemove these unused method parameters "cmap", "pmap", "partyMap".(‰¢ö
+N	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ğÂ¿n
+O	java:S106õ"9Replace this use of System.out or System.err by a logger.(–»àÔ
+]
+java:S1172ü"ARemove these unused method parameters "cmap", "pmap", "partyMap".(‡½ïùÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(úÕ”İÿÿÿÿÿ

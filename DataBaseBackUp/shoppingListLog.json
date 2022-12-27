@@ -1,0 +1,985 @@
+{ 
+    "_id" : ObjectId("639c0ebe56359e682e4e89fc"), 
+    "recipeId" : "639b03a5665fa56d3ec3ca94", 
+    "loginId" : "639862db07df694d01fdbddd", 
+    "itemName" : "Vadapav", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Pav", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Butter", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("639c0f1956359e682e4e89fd"), 
+    "recipeId" : "6399c61d294e0c702638413f", 
+    "loginId" : "63986035ced4035f5c5af4c9", 
+    "itemName" : "Batata Bhungla", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Bhungala", 
+            "quantity" : NumberInt(10)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("639feeebe2a36f2b7dcd3ff6"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "638dde91375ba742907bf65f", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "date" : ISODate("2022-12-19T04:56:11.780+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a0609513890a24605831d9"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "639862db07df694d01fdbddd", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "date" : ISODate("2022-12-19T13:01:09.403+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a17d9cb5567476a92c9811"), 
+    "recipeId" : "6399c61d294e0c702638413f", 
+    "loginId" : "639862db07df694d01fdbddd", 
+    "itemName" : "Batata Bhungla", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Bhungala", 
+            "quantity" : NumberInt(10)
+        }
+    ], 
+    "date" : ISODate("2022-12-20T09:17:16.699+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a1b728bee0f1397f3c725b"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29a417bc7c5078e7e2bac"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29aaa0c53eb6fc9aec6c6"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29ac838d2db2fdaf3202a"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29bae1974584c5c83fcec"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29bae1974584c5c83fced"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29bae1974584c5c83fcee"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a29bae1974584c5c83fcef"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806ede9"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806edea"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806edeb"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806edec"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806eded"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806edee"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806edef"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a4e120712f03b806edf0"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e3a"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e3b"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e3c"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e3d"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e3e"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e3f"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e40"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2a9207b590f1d82103e41"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5ab"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5ac"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5ad"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5ae"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5af"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5b0"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5b1"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abea2916302c4263c5b2"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b3"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b4"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b5"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b6"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b7"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b8"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5b9"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}
+{ 
+    "_id" : ObjectId("63a2abf42916302c4263c5ba"), 
+    "recipeId" : "639b03d1665fa56d3ec3ca95", 
+    "loginId" : "6398478a1311382b51c49584", 
+    "itemName" : "Samosa", 
+    "ingredients" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.decorator.ShoppingListLog"
+}

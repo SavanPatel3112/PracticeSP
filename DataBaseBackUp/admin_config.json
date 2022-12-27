@@ -1,0 +1,47 @@
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e07"), 
+    "from" : "savan.p@techroversolutions.com", 
+    "username" : "savan.p@techroversolutions.com", 
+    "password" : "Techrovers@2022", 
+    "requiredEmailItems" : [
+        "@"
+    ], 
+    "host" : "smtp.office365.com", 
+    "port" : "587", 
+    "smtpAuth" : true, 
+    "starttls" : true, 
+    "nameRegex" : "^[0-9#$@!%&*?.-_=]{1,15}$", 
+    "emailRegex" : "^[A-Za-z0-9+_.-]+@(.+)$", 
+    "regex" : "^(?=.{1,64}@)[a-z0-9_-]+(\\.[a-z0-9_-]+)*@[^-][a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,})$", 
+    "semesterRegex" : "^[0-8]{1}$", 
+    "spiRegex" : "^[0-10]{2}$", 
+    "passwordRegex" : "^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])(?=\\S+$).{8,18}$", 
+    "mobileNoRegex" : "^[0-9]{10}$", 
+    "importRecordLimit" : NumberInt(100), 
+    "extensions" : [
+        "gmail.com", 
+        "yahoo.com"
+    ], 
+    "techAdmins" : [
+        "savan.p@techroversolutions.com"
+    ], 
+    "notificationConfiguration" : {
+        "resultTemplate" : {
+            "title" : "Result ", 
+            "message" : "", 
+            "allowBcc" : false
+        }
+    }, 
+    "userImportMappingFields" : {
+        "First Name" : "firstName", 
+        "Last Name" : "lastName", 
+        "Middle Name" : "middleName", 
+        "Address" : "Address", 
+        "City" : "city", 
+        "State" : "state", 
+        "Email" : "email", 
+        "UserName" : "userName", 
+        "MobileNo" : "mobileNo"
+    }, 
+    "_class" : "com.example.authmoduls.common.model.AdminConfiguration"
+}

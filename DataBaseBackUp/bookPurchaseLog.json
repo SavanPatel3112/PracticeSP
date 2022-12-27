@@ -1,0 +1,387 @@
+{ 
+    "_id" : ObjectId("633e6746ee4b7733595a90b9"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2021-09-06T05:27:34.530+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6dab9fe92c73615ef03d"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2022-08-06T05:54:51.276+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6e029fe92c73615ef03e"), 
+    "userId" : "62eb60ed9c735854c58f83de", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2021-04-06T05:56:18.615+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6e1a9fe92c73615ef03f"), 
+    "userId" : "62eb60ed9c735854c58f83de", 
+    "bookId" : "633e6aaaee4b7733595a90bb", 
+    "bookName" : "The Complete Harry Potter", 
+    "discount" : 3.0, 
+    "price" : 65.0, 
+    "date" : ISODate("2022-10-06T05:56:42.355+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6e389fe92c73615ef040"), 
+    "userId" : "62eb615c9c735854c58f83df", 
+    "bookId" : "633e6aaaee4b7733595a90bb", 
+    "bookName" : "The Complete Harry Potter", 
+    "discount" : 3.0, 
+    "price" : 65.0, 
+    "date" : ISODate("2021-03-06T05:57:12.996+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6e769fe92c73615ef041"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2022-03-06T05:58:14.036+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6e7c9fe92c73615ef042"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633e6aaaee4b7733595a90bb", 
+    "bookName" : "The Complete Harry Potter", 
+    "discount" : 3.0, 
+    "price" : 65.0, 
+    "date" : ISODate("2021-02-06T05:58:20.939+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6e8a9fe92c73615ef043"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633c1d28679c6517b72c052b", 
+    "bookName" : "Java", 
+    "discount" : 5.0, 
+    "price" : 45.0, 
+    "date" : ISODate("2022-05-06T05:58:34.403+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6eab9fe92c73615ef044"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2021-10-06T05:59:07.905+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6edd9fe92c73615ef045"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633e6c4c9fe92c73615ef03c", 
+    "bookName" : "Antonina Or The Fall Of Rome", 
+    "discount" : 2.0, 
+    "price" : 57.0, 
+    "date" : ISODate("2022-03-06T05:59:57.166+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6f49c891594a243a13d1"), 
+    "userId" : "6304632fac7d94508596a6ee", 
+    "bookId" : "633e6c4c9fe92c73615ef03c", 
+    "bookName" : "Antonina Or The Fall Of Rome", 
+    "discount" : 2.0, 
+    "price" : 57.0, 
+    "date" : ISODate("2021-01-06T06:01:45.521+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6f53c891594a243a13d2"), 
+    "userId" : "6304632fac7d94508596a6ee", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2022-04-06T06:01:55.280+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6fb7c891594a243a13d3"), 
+    "userId" : "6304632fac7d94508596a6ef", 
+    "bookId" : "633c1d28679c6517b72c052b", 
+    "bookName" : "Java", 
+    "discount" : 5.0, 
+    "price" : 45.0, 
+    "date" : ISODate("2021-09-06T06:03:35.472+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6fbfc891594a243a13d4"), 
+    "userId" : "6304632fac7d94508596a6ef", 
+    "bookId" : "633e6aaaee4b7733595a90bb", 
+    "bookName" : "The Complete Harry Potter", 
+    "discount" : 3.0, 
+    "price" : 65.0, 
+    "date" : ISODate("2022-08-06T06:03:43.242+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6fdcc891594a243a13d5"), 
+    "userId" : "63071b82a86b151b3f17b220", 
+    "bookId" : "633e6aaaee4b7733595a90bb", 
+    "bookName" : "The Complete Harry Potter", 
+    "discount" : 3.0, 
+    "price" : 65.0, 
+    "date" : ISODate("2021-04-06T06:04:12.126+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e6fe5c891594a243a13d6"), 
+    "userId" : "63071b82a86b151b3f17b220", 
+    "bookId" : "633e6c4c9fe92c73615ef03c", 
+    "bookName" : "Antonina Or The Fall Of Rome", 
+    "discount" : 2.0, 
+    "price" : 57.0, 
+    "date" : ISODate("2021-12-06T06:04:21.504+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e701ac891594a243a13d7"), 
+    "userId" : "6308a56ee1aa6e29eb1c1b8c", 
+    "bookId" : "633e6c4c9fe92c73615ef03c", 
+    "bookName" : "Antonina Or The Fall Of Rome", 
+    "discount" : 2.0, 
+    "price" : 57.0, 
+    "date" : ISODate("2022-10-06T06:05:14.445+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e7028c891594a243a13d8"), 
+    "userId" : "6308a56ee1aa6e29eb1c1b8c", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2021-12-06T06:05:28.755+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e704ac891594a243a13d9"), 
+    "userId" : "6308a792e1aa6e29eb1c1b8d", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2022-10-06T06:06:02.510+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e706fc891594a243a13da"), 
+    "userId" : "6308b9d32240cd1be9ebd68b", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2021-11-06T06:06:39.457+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e7071c891594a243a13db"), 
+    "userId" : "6308b9d32240cd1be9ebd68b", 
+    "bookId" : "633e6c4c9fe92c73615ef03c", 
+    "bookName" : "Antonina Or The Fall Of Rome", 
+    "discount" : 2.0, 
+    "price" : 57.0, 
+    "date" : ISODate("2022-10-06T06:06:41.755+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e70a5c891594a243a13dc"), 
+    "userId" : "630c77c8e519c628c0d6eea6", 
+    "bookId" : "633e6c4c9fe92c73615ef03c", 
+    "bookName" : "Antonina Or The Fall Of Rome", 
+    "discount" : 2.0, 
+    "price" : 57.0, 
+    "date" : ISODate("2021-01-06T06:07:33.347+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e70a9c891594a243a13dd"), 
+    "userId" : "630c77c8e519c628c0d6eea6", 
+    "bookId" : "633e6aaaee4b7733595a90bb", 
+    "bookName" : "The Complete Harry Potter", 
+    "discount" : 3.0, 
+    "price" : 65.0, 
+    "date" : ISODate("2021-06-06T06:07:37.123+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e70aec891594a243a13de"), 
+    "userId" : "630c77c8e519c628c0d6eea6", 
+    "bookId" : "633e6a53ee4b7733595a90ba", 
+    "bookName" : "The Exiled", 
+    "discount" : 5.0, 
+    "price" : 32.0, 
+    "date" : ISODate("2022-05-06T06:07:42.135+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e70b3c891594a243a13df"), 
+    "userId" : "630c77c8e519c628c0d6eea6", 
+    "bookId" : "633c1d28679c6517b72c052b", 
+    "bookName" : "Java", 
+    "discount" : 5.0, 
+    "price" : 45.0, 
+    "date" : ISODate("2021-02-06T06:07:47.960+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("633e70bec891594a243a13e0"), 
+    "userId" : "630c77c8e519c628c0d6eea6", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2022-03-06T06:07:58.839+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("634013b9f0b67b2206cc598a"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "refundDiscount" : 10.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2022-10-07T11:55:37.456+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("634013ebf0b67b2206cc598b"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633c1d28679c6517b72c052b", 
+    "bookName" : "Java", 
+    "discount" : 5.0, 
+    "refundDiscount" : 10.0, 
+    "price" : 45.0, 
+    "date" : ISODate("2022-10-07T11:56:27.175+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("63401a4d2f7cf6321c367070"), 
+    "userId" : "62eb6e7866c2fd0f96383b27", 
+    "bookId" : "633c1d28679c6517b72c052b", 
+    "bookName" : "Java", 
+    "discount" : 5.0, 
+    "refundDiscount" : 10.0, 
+    "price" : 45.0, 
+    "date" : ISODate("2022-10-07T12:23:41.455+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("63410546707cdc5a623401e2"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "refundDiscount" : 0.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2021-09-06T05:27:34.530+0000"), 
+    "resale" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("634105af40b127144e9cd2a9"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "refundDiscount" : 0.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2021-09-06T05:27:34.530+0000"), 
+    "resale" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("634105d340b127144e9cd2aa"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "refundDiscount" : 0.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2021-09-06T05:27:34.530+0000"), 
+    "resale" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("634105ec40b127144e9cd2ab"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633aa3e981b01b4fcc7fbcd1", 
+    "bookName" : "Springboot", 
+    "discount" : 10.0, 
+    "refundDiscount" : 0.0, 
+    "price" : 30.0, 
+    "date" : ISODate("2021-09-06T05:27:34.530+0000"), 
+    "resale" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.BookPurchaseLog"
+}
+{ 
+    "_id" : ObjectId("634a4e28eb139c125e639dcd"), 
+    "userId" : "62eb607d9c735854c58f83dd", 
+    "bookId" : "633c1d28679c6517b72c052b", 
+    "bookName" : "Java", 
+    "discount" : 5.0, 
+    "refundDiscount" : 10.0, 
+    "price" : 45.0, 
+    "date" : ISODate("2021-09-15T06:07:36.360+0000"), 
+    "resale" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.decorator.bookDecorator.BookPurchaseLog"
+}

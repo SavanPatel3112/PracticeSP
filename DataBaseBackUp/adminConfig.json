@@ -1,0 +1,42 @@
+{ 
+    "_id" : ObjectId("630c40746c202159ceef8dce"), 
+    "from" : "savan.p@techroversolutions.com ", 
+    "username" : "savan.p@techroversolutions.com", 
+    "password" : "Techrovers@2022", 
+    "port" : "587", 
+    "host" : "smtp.office365.com", 
+    "mailSmtpAuth" : true, 
+    "mailSmtpStarttls" : true, 
+    "emailRegex" : "^[a-z0-9]$", 
+    "regex" : "^(?=.{1,64}@)[a-z0-9\\+_-]+(\\.[A-Za-z0-9\\+_-]+)*@[^-][A-Za-z0-9\\+-]+(\\.[A-Za-z0-9\\+-]+)*(\\.[A-Za-z]{2,})$", 
+    "techAdmin" : [
+        "savan.p@techroversolutions.com"
+    ], 
+    "notificationConfiguration" : {
+        "templateModel" : {
+            "title" : "Result", 
+            "message" : "", 
+            "allowBcc" : false
+        }
+    }, 
+    "userImportMappingFields" : {
+        "First Name" : "firstName", 
+        "Middle Name" : "middleName", 
+        "Last Name" : "lastName", 
+        "Age" : "age", 
+        "User Name" : "userName", 
+        "Email" : "email", 
+        "Phone Number" : "phoneNumber", 
+        "PassWord" : "passWord", 
+        "Address" : "address", 
+        "Address Line1" : "addressLine1", 
+        "Address Line2" : "addressLine2", 
+        "Address Line3" : "addressLine3", 
+        "City" : "city", 
+        "State" : "state", 
+        "Zip Code" : "zipCode", 
+        "Role" : "role"
+    }, 
+    "importRecordLimit" : NumberInt(100), 
+    "_class" : "com.trs.auth.common.model.AdminConfiguration"
+}

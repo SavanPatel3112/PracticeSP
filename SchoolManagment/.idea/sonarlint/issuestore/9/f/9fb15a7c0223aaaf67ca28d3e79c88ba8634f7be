@@ -1,0 +1,34 @@
+
+0
+java:S1220""Move this file to a named package.
+>
+java:S2387"("b" is the name of a field in "Student".(°ò‹
+D
+java:S2387")"sc" is the name of a field in "Student".(ğÛ²¸øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¹Ğ
+>	java:S108")Either remove or fill this block of code.(üØô
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÜŒÍ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š½ŸÍşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­¾†úşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êÑ‚Ì
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¿İ³±
+U
+java:S1161)":Add the "@Override" annotation above this method signature(¤ú¥ˆüÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ô“€ÿÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ïŒèê
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÂèİÜ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(…ƒ¸‡úÿÿÿÿ
+c	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğœŠâ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Ë™ğ
+h	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı´Óıÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ºüµ—
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(ñû©
+O
+java:S1117S"4Rename "a" which hides the field declared at line 3.(ÁğŒùÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ãë‹ñşÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(©ú·í
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Å±•¹úÿÿÿÿ
+c	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äï
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(ÿäÏ‹øÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(å•¡øøÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(¶®®™

@@ -1,0 +1,228 @@
+{ 
+    "_id" : ObjectId("638ddd2f375ba742907bf65e"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "email" : "savan9045@gmail.com", 
+    "passWord" : "$2a$12$oVnQi5/5Xf3dPQ6d09n/O.rgIZuNizildIkiQ2XdsYTlSMfP7qQWW", 
+    "accesss" : "ADMIN", 
+    "gender" : "MALE", 
+    "otp" : "844167", 
+    "login" : true, 
+    "softDelete" : false, 
+    "loginTime" : ISODate("2022-12-21T13:07:36.544+0000"), 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("638dde91375ba742907bf65f"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "email" : "savan9047@gmail.com", 
+    "passWord" : "$2a$12$W8TJ4FeiA6ZNiXYTxABRquDgwV.dsinauFfMrD2eo4Cha100T5HPW", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "otp" : "231392", 
+    "login" : true, 
+    "softDelete" : false, 
+    "loginTime" : ISODate("2022-12-19T06:25:05.997+0000"), 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("638edad5c8f9d2312a37f500"), 
+    "firstName" : "Vishali", 
+    "middleName" : "Pinkesh", 
+    "lastName" : "Patel", 
+    "fullName" : "Vishali Pinkesh Patel ", 
+    "email" : "savan45@gmail.com", 
+    "userName" : "Aa@1234", 
+    "passWord" : "Aa@123456", 
+    "accesss" : "USER", 
+    "gender" : "FEMALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("638edaf8c8f9d2312a37f501"), 
+    "firstName" : "Guddi", 
+    "middleName" : "Pinkesh", 
+    "lastName" : "Patel", 
+    "fullName" : "Guddi Pinkesh Patel ", 
+    "email" : "savan46@gmail.com", 
+    "userName" : "Aa@1235", 
+    "passWord" : "Aa@123456", 
+    "accesss" : "USER", 
+    "gender" : "FEMALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("638edba2370fc87fbbe93576"), 
+    "firstName" : "Ansoya", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "fullName" : "Ansoya Kiritbhai Patel ", 
+    "email" : "savan47@gmail.com", 
+    "userName" : "Ak@1235", 
+    "passWord" : "Ak@123456", 
+    "accesss" : "USER", 
+    "gender" : "FEMALE", 
+    "login" : false, 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("639042b5ec8a3606dbf5a3e9"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "fullName" : "Savan Kiritbhai Patel ", 
+    "email" : "savan90@gmail.com", 
+    "passWord" : "$2a$12$ZcKk3TXYESxhiLxkiH8DYe09Aa3TOH0831wPUVl90Raz55ivdURK6", 
+    "confirmPassword" : "Aa@123456", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("63919ff5ee68c30a00209b7c"), 
+    "firstName" : "Ayush", 
+    "middleName" : "Ravi", 
+    "lastName" : "Vishwakarma", 
+    "fullName" : "Ayush Ravi Vishwakarma ", 
+    "email" : "ayushvishwakarma767@gmail.com", 
+    "passWord" : "$2a$12$T1pvR9.H/GMy2nAV1ifM7undQIF6w41vpmucFs.AprhAObPY1Pe8i", 
+    "confirmPassword" : "Ayush@123", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "otp" : "420984", 
+    "login" : true, 
+    "softDelete" : false, 
+    "loginTime" : ISODate("2022-12-08T08:28:57.673+0000"), 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("6396c53cbcc03f4195b6bff3"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kkkff", 
+    "lastName" : "Patel", 
+    "fullName" : "Savan Kkkff Patel ", 
+    "email" : "savan77@gmail.com", 
+    "passWord" : "Sp@31122000", 
+    "confirmPassword" : "Sp@31122000", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("63984691d8f7120a6b8de421"), 
+    "firstName" : "Sa", 
+    "middleName" : "Ki", 
+    "lastName" : "Pa", 
+    "fullName" : "Sa Ki Pa ", 
+    "email" : "savan4@gmail.com", 
+    "passWord" : "Sp123456", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("6398478a1311382b51c49584"), 
+    "firstName" : "Sa", 
+    "middleName" : "Ki", 
+    "lastName" : "Pa", 
+    "fullName" : "Sa Ki Pa ", 
+    "email" : "savan5@gmail.com", 
+    "passWord" : "$2a$12$cN4Od6D.GlQV1d3rLP6RrO3rlWOVnKEMRsQCiHehgpzXOFRVrOCoa", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "otp" : "276261", 
+    "login" : false, 
+    "softDelete" : false, 
+    "loginTime" : ISODate("2022-12-13T10:56:53.414+0000"), 
+    "logoutTime" : ISODate("2022-12-21T06:47:16.124+0000"), 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("63986035ced4035f5c5af4c9"), 
+    "firstName" : "Sp", 
+    "middleName" : "Ki", 
+    "lastName" : "pa", 
+    "fullName" : "Sp Ki pa ", 
+    "email" : "sp3@gmail.com", 
+    "passWord" : "$2a$12$THx9RZmWPEX0v8jXKmHEAuwQ9zwrVdMpTmPuLEsyASyvjQO0qlsUG", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("639862db07df694d01fdbddd"), 
+    "firstName" : "Pinkesh", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "fullName" : "Pinkesh Kiritbhai Patel ", 
+    "email" : "string", 
+    "passWord" : "$2a$12$ZrF5Bb4UwHb8X0yw7zQuY.Ip81kuisSDdays73Ubl8gbRf9X1Z91u", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "otp" : "706606", 
+    "login" : false, 
+    "softDelete" : false, 
+    "loginTime" : ISODate("2022-12-14T09:45:23.759+0000"), 
+    "logoutTime" : ISODate("2022-12-14T12:15:04.100+0000"), 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("63a19c5b3224d64d895fa01d"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "fullName" : "Savan Kiritbhai Patel ", 
+    "email" : "savan7@gmail.com", 
+    "passWord" : "$2a$12$ilZRJJbDedobKLsROjJADOVrpYV5EjMUgh77pKr3z2TPjHr6Zcs9W", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("63a2d1c3f6994a7d42368470"), 
+    "firstName" : "Pinkesh", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "fullName" : "Pinkesh Kiritbhai Patel ", 
+    "email" : "savan50@gmail.com", 
+    "passWord" : "$2a$12$EvyNwnEnQiczrzvbDfIEMOGgt0ilZn6mQTObXxDdRPPNTSS1/7Z/K", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "otp" : "920601", 
+    "login" : true, 
+    "softDelete" : false, 
+    "loginTime" : ISODate("2022-12-21T09:30:39.352+0000"), 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}
+{ 
+    "_id" : ObjectId("63a2f7fe1c68cf02b1501d56"), 
+    "firstName" : "Savan", 
+    "middleName" : "Patel", 
+    "lastName" : "Ksgbfd", 
+    "fullName" : "Savan Patel Ksgbfd ", 
+    "email" : "savan51@gmail.com", 
+    "passWord" : "$2a$12$kWNsV3wu.ykk1g8KtZMEzuXrTfJSXDMsyenCejALbWdVZ3GpR4x.K", 
+    "accesss" : "USER", 
+    "gender" : "MALE", 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.Login"
+}

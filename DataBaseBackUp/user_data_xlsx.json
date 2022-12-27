@@ -1,0 +1,99 @@
+{ 
+    "_id" : ObjectId("634e9cc5c1c48930fcd9203f"), 
+    "headers" : [
+        "firstName", 
+        "middleName", 
+        "lastName", 
+        "age", 
+        "userName", 
+        "email", 
+        "phoneNumber", 
+        "addressLine1", 
+        "addressline2", 
+        "addressLine3", 
+        "city", 
+        "state", 
+        "zipCode", 
+        "role", 
+        "roles"
+    ], 
+    "data" : {
+        "lastName" : [
+            "Patel", 
+            "patel", 
+            "Patel"
+        ], 
+        "zipCode" : [
+            "380052", 
+            "380052", 
+            "380052"
+        ], 
+        "role" : [
+            "ADMIN", 
+            "DEPARTMENT", 
+            "STUDENT"
+        ], 
+        "city" : [
+            "ahmedabad", 
+            "ahmedabad", 
+            "ahmedabad"
+        ], 
+        "roles" : [
+            "IMPORTED", 
+            "IMPORTED", 
+            "INVITED"
+        ], 
+        "userName" : [
+            "sp3112", 
+            "pk1402", 
+            "vp1419"
+        ], 
+        "firstName" : [
+            "Savan", 
+            "Pinkesh", 
+            "Vaishali"
+        ], 
+        "phoneNumber" : [
+            "9081738141", 
+            "9265057946", 
+            "8160359565"
+        ], 
+        "addressLine1" : [
+            "F-7 Neeldip", 
+            "F-7 Neeldip", 
+            "F-7 Neeldip"
+        ], 
+        "addressline2" : [
+            "Gurukulroad", 
+            "Gurukulroad", 
+            "Gurukulroad"
+        ], 
+        "middleName" : [
+            "kiritbhai", 
+            "kiritbhai", 
+            "Pinkesh"
+        ], 
+        "addressLine3" : [
+            "Memnagar", 
+            "Memnagar", 
+            "Memnagar"
+        ], 
+        "state" : [
+            "gujarat", 
+            "gujarat", 
+            "gujarat"
+        ], 
+        "age" : [
+            "22", 
+            "25", 
+            "25"
+        ], 
+        "email" : [
+            "savan9045@gmail.com", 
+            "pinkesh054@gmail.com", 
+            "vaishali14@gmail.com"
+        ]
+    }, 
+    "importDate" : ISODate("2022-10-18T12:32:05.150+0000"), 
+    "_class" : "com.example.authmoduls.common.model.UserImportedData"
+}

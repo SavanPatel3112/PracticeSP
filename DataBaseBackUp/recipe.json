@@ -1,0 +1,151 @@
+{ 
+    "_id" : ObjectId("638d96eb986b2450e21c0de6"), 
+    "itemName" : "dabeli", 
+    "itemDescription" : "Fast food", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "Pav", 
+            "quantity" : NumberInt(5)
+        }
+    ], 
+    "data" : ISODate("2022-12-05T06:59:55.599+0000"), 
+    "role" : "ANONYMOUS", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("6399c61d294e0c702638413f"), 
+    "itemName" : "Batata Bhungla", 
+    "itemDescription" : "Some best dish", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Bhungala", 
+            "quantity" : NumberInt(10)
+        }
+    ], 
+    "data" : ISODate("2022-12-14T12:48:29.562+0000"), 
+    "accesss" : "USER", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("639b03a5665fa56d3ec3ca94"), 
+    "itemName" : "Vadapav", 
+    "itemDescription" : "here is the most favorite dish", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Pav", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Butter", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "data" : ISODate("2022-12-15T11:23:17.381+0000"), 
+    "accesss" : "USER", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("639b03d1665fa56d3ec3ca95"), 
+    "itemName" : "Samosa", 
+    "itemDescription" : "here is the most favorite dish", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "Batata", 
+            "quantity" : NumberInt(5)
+        }, 
+        {
+            "ingredientName" : "Gehu aata", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "Oil", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "data" : ISODate("2022-12-15T11:24:01.134+0000"), 
+    "accesss" : "USER", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("63a54eb27b16c366b3422b54"), 
+    "itemName" : "Pizza", 
+    "itemDescription" : "here is the most favorite dish", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "Rotla", 
+            "quantity" : NumberInt(18)
+        }, 
+        {
+            "ingredientName" : "Chhess", 
+            "quantity" : NumberInt(1)
+        }, 
+        {
+            "ingredientName" : "Veg", 
+            "quantity" : NumberInt(2)
+        }, 
+        {
+            "ingredientName" : "O-1", 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "data" : ISODate("2022-12-23T06:46:10.499+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("63aadc9a5e4211157b5378e7"), 
+    "itemName" : "fsdf", 
+    "itemDescription" : "fsdf", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "fsffs", 
+            "quantity" : NumberInt(5)
+        }
+    ], 
+    "data" : ISODate("2022-12-27T11:52:58.876+0000"), 
+    "loginId" : "638ddd2f375ba742907b", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("63aadd3d5e4211157b5378e8"), 
+    "itemName" : "fsdf", 
+    "itemDescription" : "fsdf", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "fsffs", 
+            "quantity" : NumberInt(5)
+        }
+    ], 
+    "data" : ISODate("2022-12-27T11:55:41.587+0000"), 
+    "loginId" : "638ddd2f375ba742907b", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}
+{ 
+    "_id" : ObjectId("63aade4bffd977227f1b4c31"), 
+    "itemName" : "fsdf", 
+    "itemDescription" : "fsdf", 
+    "recipeIngredient" : [
+        {
+            "ingredientName" : "fsffs", 
+            "quantity" : NumberInt(5)
+        }
+    ], 
+    "data" : ISODate("2022-12-27T12:00:11.007+0000"), 
+    "loginId" : "638ddd2f375ba742907bf65e", 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.ar.auth.model.RecipeModel"
+}

@@ -1,0 +1,1593 @@
+{ 
+    "_id" : ObjectId("62eb607d9c735854c58f83dd"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "email" : "savan4970@gmail.com", 
+    "passWord" : "Sp@123123", 
+    "address" : [
+        {
+            "address" : "F-7 Neeldip", 
+            "address2" : "GurukulRoad", 
+            "address3" : "Memnagar", 
+            "city" : "Ahmedabad", 
+            "state" : "Gujarat", 
+            "zipCode" : "380052"
+        }
+    ], 
+    "role" : "ADMIN", 
+    "fullName" : "Patel meet Indravadanbhai", 
+    "mobileNo" : "9081738141", 
+    "balance" : 863.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2021-06-01T11:20:45.802+0000"), 
+    "cgpi" : 9.05, 
+    "login" : true, 
+    "softDelete" : false, 
+    "results" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 9.05, 
+            "date" : ISODate("2022-10-18T09:50:27.712+0000"), 
+            "year" : NumberInt(0)
+        }
+    ], 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("62eb60ed9c735854c58f83de"), 
+    "firstName" : "Pinkesh", 
+    "lastName" : "Chandubhai", 
+    "userName" : "RV12", 
+    "address" : {
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380056"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "Vyas Rohit Chandubhai", 
+    "otp" : "278020", 
+    "balance" : 903.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2021-01-01T11:23:20.082+0000"), 
+    "logoutTime" : ISODate("2022-11-09T11:04:18.663+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("62eb615c9c735854c58f83df"), 
+    "firstName" : "Shukla", 
+    "middleName" : "Shubham ", 
+    "lastName" : "maheshbhai", 
+    "age" : NumberInt(21), 
+    "email" : "ss123@gmail.com", 
+    "userName" : "SS123", 
+    "address" : {
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380032"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "Shukla Shubham maheshbhai", 
+    "balance" : 935.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2022-06-01T11:24:57.432+0000"), 
+    "logoutTime" : ISODate("2022-11-09T11:04:18.665+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("62eb6e7866c2fd0f96383b27"), 
+    "firstName" : "Pinkesh", 
+    "role" : "STUDENT", 
+    "fullName" : "Patel Savan kiritbhai", 
+    "balance" : 922.8, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "logoutTime" : ISODate("2022-11-09T11:04:18.667+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("62f0eaa91dd83e487c4340de"), 
+    "firstName" : "Hardik", 
+    "lastName" : "Adrola", 
+    "middleName" : "Amratbhai", 
+    "fullName" : "Hardik Amratbhai Adrola", 
+    "address" : {
+        "addressLine1" : "sdfsdf", 
+        "addressLine2" : "strsdfsdfing", 
+        "addressLine3" : "strisdfsdfsdng", 
+        "city" : "asdas", 
+        "state" : "aedqwdqa", 
+        "zipCode" : "qwda"
+    }, 
+    "age" : 21.0, 
+    "email" : "sdfsdfsf151sdf", 
+    "userName" : "Ha112233", 
+    "passWord" : "$2a$12$.N6trdXM98Ggb/1i5ZSkmuf7.VjHvPFNRk91KufJAab4g/HfFy5E.", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 5.5
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 5.6
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 9.6
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 6.359, 
+            "date" : ISODate("2022-09-01T11:18:27.109+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 6.154, 
+            "date" : ISODate("2022-09-01T11:18:27.109+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 7.96, 
+            "date" : ISODate("2022-09-01T11:18:27.109+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 6.12, 
+            "date" : ISODate("2022-09-01T11:18:27.109+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 9.99, 
+            "date" : ISODate("2022-09-01T11:18:27.109+0000")
+        }
+    ], 
+    "date" : ISODate("2022-08-01T11:25:52.193+0000"), 
+    "cgpa" : 7.160374999999999, 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("62fc8b4b34ac586356e182ac"), 
+    "firstName" : "Tarun", 
+    "middleName" : "ganpatbhai", 
+    "lastName" : "Panchasara", 
+    "age" : NumberInt(36), 
+    "email" : "tarun12@gmail.com", 
+    "userName" : "TP123", 
+    "passWord" : "$2a$12$.jFsMN/RDi2UdvZO1/NFqekh2er3EkKPF4KIU2WqbSULuufo/1MKi", 
+    "address" : {
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "990066"
+    }, 
+    "role" : "DEPARTMENT", 
+    "fullName" : " fghfhd dfg", 
+    "otp" : "742866", 
+    "userStatus" : "ACTIVE", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "logoutTime" : ISODate("2022-11-09T07:04:46.595+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("62fc8f3434ac586356e182ad"), 
+    "firstName" : "ravi", 
+    "lastName" : "Modi", 
+    "middleName" : "kantibhai", 
+    "fullName" : "ravi kantibhai Modi", 
+    "address" : {
+        "addressLine1" : "Vishramnagar", 
+        "addressLine2" : "GurukulRoad", 
+        "addressLine3" : "Memnagar", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380005"
+    }, 
+    "age" : "21", 
+    "email" : "ravi123@gmail.com", 
+    "userName" : "RM123", 
+    "passWord" : "Ravi123", 
+    "role" : "DEPARTMENT", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("6304632fac7d94508596a6ee"), 
+    "firstName" : "Patel", 
+    "middleName" : "Pinkesh", 
+    "lastName" : "Kiritbhai", 
+    "age" : NumberInt(25), 
+    "email" : "pinkeshpatel54", 
+    "userName" : "PKPV054", 
+    "address" : {
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "Patel Pinkesh Kiritbhai", 
+    "balance" : 911.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2021-07-02T04:34:04.828+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6304632fac7d94508596a6ef"), 
+    "firstName" : "Patel", 
+    "middleName" : "Pinkesh", 
+    "lastName" : "Kiritbhai", 
+    "age" : NumberInt(25), 
+    "email" : "pinkeshpatel054", 
+    "userName" : "PKPV054", 
+    "address" : {
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "Patel Pinkesh Kiritbhai", 
+    "otp" : "597474", 
+    "balance" : 890.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2022-08-23T05:40:54.794+0000"), 
+    "logoutTime" : ISODate("2022-11-09T07:04:46.597+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("63070c0e101934306e1ebd2d"), 
+    "firstName" : "sadfdsf", 
+    "lastName" : "sdf", 
+    "middleName" : "sdf", 
+    "fullName" : "sadfdsf sdf sdf", 
+    "address" : {
+        "addressLine1" : "adf", 
+        "addressLine2" : "sdf", 
+        "addressLine3" : "sdf", 
+        "city" : "sdf", 
+        "state" : "sdf", 
+        "zipCode" : "fsd"
+    }, 
+    "age" : "28", 
+    "email" : "meet9099@gmail.com", 
+    "userName" : "1122", 
+    "passWord" : "121354", 
+    "role" : "DEPARTMENT", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "11223344551", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("63070c933cc0b4610e63acda"), 
+    "firstName" : "sadfdsf", 
+    "lastName" : "sdf", 
+    "middleName" : "sdf", 
+    "fullName" : "sadfdsf sdf sdf", 
+    "address" : {
+        "addressLine1" : "adf", 
+        "addressLine2" : "sdf", 
+        "addressLine3" : "sdf", 
+        "city" : "sdf", 
+        "state" : "sdf", 
+        "zipCode" : "123456"
+    }, 
+    "age" : "28", 
+    "email" : "meet9099@gmail.com", 
+    "userName" : "1122", 
+    "passWord" : "12135475", 
+    "role" : "DEPARTMENT", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "112233445511", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("63070ccaa4ebc612b29ee92e"), 
+    "firstName" : "sadfdsf", 
+    "lastName" : "sdf", 
+    "middleName" : "sdf", 
+    "fullName" : "sadfdsf sdf sdf", 
+    "address" : {
+        "addressLine1" : "adf", 
+        "addressLine2" : "sdf", 
+        "addressLine3" : "sdf", 
+        "city" : "sdf", 
+        "state" : "sdf", 
+        "zipCode" : "123456"
+    }, 
+    "age" : "28", 
+    "email" : "meet9099@gmail.com", 
+    "userName" : "1122", 
+    "passWord" : "12135475", 
+    "role" : "DEPARTMENT", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "112233445511", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("63070cfbbb385a1f50537a5e"), 
+    "firstName" : "sadfdsf", 
+    "lastName" : "sdf", 
+    "middleName" : "sdf", 
+    "fullName" : "sadfdsf sdf sdf", 
+    "address" : {
+        "addressLine1" : "adf", 
+        "addressLine2" : "sdf", 
+        "addressLine3" : "sdf", 
+        "city" : "sdf", 
+        "state" : "sdf", 
+        "zipCode" : "123456"
+    }, 
+    "age" : "28", 
+    "email" : "meet9099@gmail.com", 
+    "userName" : "1122", 
+    "passWord" : "1213", 
+    "role" : "DEPARTMENT", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "1122334455", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("63071a2c07afb7773e6e4a5d"), 
+    "firstName" : "hardik", 
+    "lastName" : "thakor", 
+    "middleName" : "hardik", 
+    "fullName" : "hardik hardik thakor", 
+    "address" : {
+        "addressLine1" : "vishramnagar", 
+        "addressLine2" : "gurukul", 
+        "addressLine3" : "ramol", 
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "3800367"
+    }, 
+    "age" : "25", 
+    "email" : "hd@gmail.com", 
+    "userName" : "hd123", 
+    "passWord" : "123456", 
+    "role" : "DEPARTMENT", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "9081738141", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("63071a6107afb7773e6e4a5e"), 
+    "firstName" : "maulik", 
+    "lastName" : "thakor", 
+    "middleName" : "maulik", 
+    "fullName" : "maulik maulik thakor", 
+    "address" : {
+        "addressLine1" : "vishramnagar", 
+        "addressLine2" : "gurukul", 
+        "addressLine3" : "ramol", 
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "38003"
+    }, 
+    "age" : "25", 
+    "email" : "MT@gmail.com", 
+    "userName" : "h6123", 
+    "passWord" : "123456", 
+    "role" : "DEPARTMENT", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "90817381451", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("63071b82a86b151b3f17b220"), 
+    "firstName" : "brijesg", 
+    "middleName" : "brijesh", 
+    "lastName" : "thakor", 
+    "age" : NumberInt(25), 
+    "email" : "BT@gmail.com", 
+    "userName" : "bt6123", 
+    "address" : {
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "380034"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "brijesg brijesh thakor", 
+    "balance" : 878.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2022-09-02T04:34:49.757+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6308a56ee1aa6e29eb1c1b8c"), 
+    "firstName" : "rohan", 
+    "middleName" : "dineshbhai", 
+    "lastName" : "thakor", 
+    "age" : NumberInt(29), 
+    "email" : "rohan@yahhoo.com", 
+    "userName" : "RT4114", 
+    "address" : {
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "380069"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "rohan dineshbhai thakor", 
+    "balance" : 911.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2021-04-02T05:21:21.899+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6308a792e1aa6e29eb1c1b8d"), 
+    "firstName" : "devendra", 
+    "middleName" : "navganbhai", 
+    "lastName" : "thakor", 
+    "age" : NumberInt(39), 
+    "email" : "devendra@yahhoo.com", 
+    "userName" : "DT4114", 
+    "address" : {
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "380079"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "devendra navganbhai thakor", 
+    "balance" : 968.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2022-10-02T05:23:19.890+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6308b9d32240cd1be9ebd68b"), 
+    "firstName" : "jaimin", 
+    "middleName" : "navganbhai", 
+    "lastName" : "thakor", 
+    "age" : NumberInt(39), 
+    "email" : "jaimin12@yahhoo.com", 
+    "userName" : "JT4114", 
+    "address" : {
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "380009"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "jaimin navganbhai thakor", 
+    "balance" : 911.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2021-12-26T12:53:07.630+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("630c77c8e519c628c0d6eea6"), 
+    "firstName" : "DJ", 
+    "middleName" : "Sarnam", 
+    "lastName" : "bhaje", 
+    "age" : NumberInt(32), 
+    "email" : "sarnambhaje@gami.com", 
+    "userName" : "DJ99", 
+    "address" : {
+        "city" : "yelleo", 
+        "state" : "Chennai", 
+        "zipCode" : "991166"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "DJ Sarnam bhaje", 
+    "balance" : 771.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2022-11-29T10:42:53.088+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("630f60acee8f503bb3583884"), 
+    "firstName" : "Adrola", 
+    "lastName" : "Hardik", 
+    "middleName" : "Jenny", 
+    "fullName" : "Adrola Jenny Hardik", 
+    "address" : {
+        "addressLine1" : "deshvali", 
+        "addressLine2" : "Near PetrolPump", 
+        "addressLine3" : "Kk nagar", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380056"
+    }, 
+    "age" : "18", 
+    "email" : "jenny@gmail.com", 
+    "userName" : "JA18", 
+    "passWord" : "886677", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 3.1565, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 6.122, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 7.365, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 8.6655, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 9.6644, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 7.6655, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 6.15, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 9.99, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2022-05-01T06:02:30.329+0000"), 
+    "cgpa" : 7.3473625, 
+    "phoneNumber" : "8866779919", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("630f60beee8f503bb3583885"), 
+    "firstName" : "Khalifa", 
+    "lastName" : "Jonney", 
+    "middleName" : "Mia", 
+    "fullName" : "Khalifa Mia Jonney", 
+    "address" : {
+        "addressLine1" : "America", 
+        "addressLine2" : "Sedny", 
+        "addressLine3" : "Croma", 
+        "city" : "cobba", 
+        "state" : "Canada", 
+        "zipCode" : "336611"
+    }, 
+    "age" : "35", 
+    "email" : "mia@gmail.com", 
+    "userName" : "MK35", 
+    "passWord" : "string", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 6.12, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 8.6544, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 4.65, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 1.11, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 2.65, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 3.15, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 2.99, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 3.1565, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2022-06-01T05:53:41.962+0000"), 
+    "cgpa" : 4.0601125, 
+    "phoneNumber" : "1115559993", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("630f60f530a213353f5d44d5"), 
+    "firstName" : "Mikal", 
+    "lastName" : "jhone", 
+    "middleName" : "sing", 
+    "fullName" : "Mikal jhone sing", 
+    "address" : {
+        "addressLine1" : "QW Land", 
+        "addressLine2" : "Foren", 
+        "addressLine3" : "Stret", 
+        "city" : "Goa", 
+        "state" : "Goa", 
+        "zipCode" : "133459"
+    }, 
+    "age" : "59", 
+    "email" : "jhone@gmail.com", 
+    "userName" : "JJ25", 
+    "passWord" : "123456", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 5.461, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 5.461, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 6.13, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 7.12, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 9.15, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 8.14, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 7.13, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 6.12, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2021-03-01T05:50:26.328+0000"), 
+    "cgpa" : 6.839, 
+    "phoneNumber" : "9561346781", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631040be0e21b77f782956de"), 
+    "firstName" : "simran", 
+    "lastName" : "bhulabhai", 
+    "middleName" : "totha", 
+    "fullName" : "simran totha bhulabhai", 
+    "address" : {
+        "addressLine1" : "xyzflat", 
+        "addressLine2" : "Prahladnagar", 
+        "addressLine3" : "Makrba", 
+        "city" : "Viramgam", 
+        "state" : "Gujarat", 
+        "zipCode" : "330055"
+    }, 
+    "age" : "35", 
+    "email" : "simran10@gmail.com", 
+    "userName" : "sm12", 
+    "passWord" : "65912", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 3.44, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 4.664, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 6.446, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 9.6644, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 6.451, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 7.614, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 6.444, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 5.461, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2022-05-01T05:47:44.976+0000"), 
+    "cgpa" : 6.27305, 
+    "phoneNumber" : "9944661133", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631041906114d41cb37e87c1"), 
+    "firstName" : "bholu", 
+    "lastName" : "bhailal", 
+    "middleName" : "parmar", 
+    "fullName" : "bholu parmar bhailal", 
+    "address" : {
+        "addressLine1" : "vandematram ", 
+        "addressLine2" : "gota", 
+        "addressLine3" : "Vaishnavdevi", 
+        "city" : "ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "665544"
+    }, 
+    "age" : "59", 
+    "email" : "bholu12@yahoo.com", 
+    "userName" : "BB25", 
+    "passWord" : "113344", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 4.9911, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 6.18415, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 7.18415, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 9.88, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 2.99, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 6.6666, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 7.164, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 9.15, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2021-10-01T05:46:37.802+0000"), 
+    "cgpa" : 6.776250000000001, 
+    "phoneNumber" : "8866113355", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631041d46114d41cb37e87c2"), 
+    "firstName" : "pappu", 
+    "middleName" : "patil", 
+    "lastName" : "popat", 
+    "age" : NumberInt(39), 
+    "email" : "pappu12@yahoo.com", 
+    "userName" : "PP25", 
+    "address" : {
+        "city" : "ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "666544"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "pappu patil popat", 
+    "balance" : 14900.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "date" : ISODate("2021-01-01T05:44:29.448+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("631042e96114d41cb37e87c3"), 
+    "firstName" : "popat", 
+    "lastName" : "lady", 
+    "middleName" : "patrakar", 
+    "fullName" : "popat patrakar lady", 
+    "address" : {
+        "addressLine1" : "Vaishnavdevi", 
+        "addressLine2" : "chandkheda", 
+        "addressLine3" : "gandhinagar", 
+        "city" : "ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "667544"
+    }, 
+    "age" : "29", 
+    "email" : "popat12@yahoo.com", 
+    "userName" : "PL65", 
+    "passWord" : "112444", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 2.22, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 5.615, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 8.123, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 9.567, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 9.137, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 6.99, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 6.63, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 8.63, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2022-02-01T05:43:11.418+0000"), 
+    "cgpa" : 7.114000000000001, 
+    "phoneNumber" : "8866113465", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631043676114d41cb37e87c4"), 
+    "firstName" : "Ghada", 
+    "lastName" : "tappu", 
+    "middleName" : "jethalal", 
+    "fullName" : "Ghada jethalal tappu", 
+    "address" : {
+        "addressLine1" : "shrimandhar", 
+        "addressLine2" : "secter 5", 
+        "addressLine3" : "gandhinagar", 
+        "city" : "ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "666666"
+    }, 
+    "age" : "19", 
+    "email" : "ghada15@yahoo.com", 
+    "userName" : "GTJ65", 
+    "passWord" : "119444", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 9.99, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 8.88, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 3.33, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 4.44, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 7.77, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 1.11, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 6.66, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 2.22, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }
+    ], 
+    "date" : ISODate("2021-03-01T05:40:29.504+0000"), 
+    "cgpa" : 5.827083333333334, 
+    "phoneNumber" : "9164346598", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631044162c34e0612b3573e6"), 
+    "firstName" : "Ghada", 
+    "lastName" : "champaklal", 
+    "middleName" : "jethalal", 
+    "fullName" : "Ghada jethalal champaklal", 
+    "address" : {
+        "addressLine1" : "gokuldham", 
+        "addressLine2" : "powdergali", 
+        "addressLine3" : "goregav", 
+        "city" : "ahmedabad", 
+        "state" : "mumbai", 
+        "zipCode" : "777666"
+    }, 
+    "age" : "45", 
+    "email" : "ghada111@yahoo.com", 
+    "userName" : "GJC45", 
+    "passWord" : "226644", 
+    "role" : "STUDENT", 
+    "otp" : "082300", 
+    "login" : "true", 
+    "balance" : 1000.0, 
+    "result" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 9.5, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 8.5, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(3), 
+            "spi" : 6.5566, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(4), 
+            "spi" : 7.5566, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(5), 
+            "spi" : 6.15454, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(6), 
+            "spi" : 5.11, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(7), 
+            "spi" : 5.11, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 9.99, 
+            "date" : ISODate("2022-09-01T05:33:27.421+0000")
+        }, 
+        {
+            "semester" : NumberInt(8), 
+            "spi" : 1.0, 
+            "date" : ISODate("2022-09-05T10:47:36.626+0000")
+        }
+    ], 
+    "date" : ISODate("2022-04-05T10:47:59.122+0000"), 
+    "cgpa" : 6.608637777777777, 
+    "phoneNumber" : "9999999999", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("6318649498d71e3b524b2896"), 
+    "firstName" : "dasdas", 
+    "lastName" : "dasd", 
+    "middleName" : "Chandreshbhai", 
+    "fullName" : "hiren lalbhai patel", 
+    "role" : "ADMIN", 
+    "cgpa" : 0.0, 
+    "phoneNumber" : "6611334499", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631ed5376c377b3ae5a2b8e4"), 
+    "firstName" : "Patel", 
+    "lastName" : "M.", 
+    "middleName" : "Kiritbhai", 
+    "fullName" : "Patel Kiritbhai M.", 
+    "address" : {
+        "addressLine1" : "F-7", 
+        "addressLine2" : "Neeldip Flat", 
+        "addressLine3" : "Memnagar", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "45", 
+    "email" : "km@gmail.com", 
+    "userName" : "km1234", 
+    "passWord" : "km1234", 
+    "role" : "ADMIN", 
+    "phoneNumber" : "9428357675", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631ed5ec438b843d13961117"), 
+    "firstName" : "Patel", 
+    "lastName" : "M.", 
+    "middleName" : "Jagdish", 
+    "fullName" : "Patel Jagdish M.", 
+    "address" : {
+        "addressLine1" : "E-6", 
+        "addressLine2" : "Vishramnagar", 
+        "addressLine3" : "Gurukul", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "47", 
+    "email" : "jm@gmail.com", 
+    "userName" : "jm1234", 
+    "passWord" : "jp12345", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "phoneNumber" : "9825852057", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631ef841c018e54b4ce83702"), 
+    "firstName" : "Patel", 
+    "lastName" : "J.", 
+    "middleName" : "Ranjan", 
+    "fullName" : "Patel Ranjan J.", 
+    "address" : {
+        "addressLine1" : "E-6", 
+        "addressLine2" : "Vishramnagar", 
+        "addressLine3" : "Gurukul", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "48", 
+    "email" : "rj@gmail.com", 
+    "userName" : "rj1234", 
+    "passWord" : "rj12345", 
+    "role" : "STUDENT", 
+    "balance" : 1000.0, 
+    "phoneNumber" : "9825852057", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631efa2204e40f3ea190842e"), 
+    "firstName" : "Patel", 
+    "lastName" : "J.", 
+    "middleName" : "Ranjan", 
+    "fullName" : "Patel Ranjan J.", 
+    "address" : {
+        "addressLine1" : "E-6", 
+        "addressLine2" : "Vishramnagar", 
+        "addressLine3" : "Gurukul", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "48", 
+    "email" : "rjp@gmail.com", 
+    "userName" : "rj1234", 
+    "passWord" : "rj12345", 
+    "balance" : 1000.0, 
+    "role" : "STUDENT", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "phoneNumber" : "9825852057", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631efb3b6d803c0afce4cb17"), 
+    "firstName" : "Patel", 
+    "lastName" : "I.", 
+    "middleName" : "Rasila", 
+    "fullName" : "Patel Rasila I.", 
+    "address" : {
+        "addressLine1" : "E-5", 
+        "addressLine2" : "Nelldip", 
+        "addressLine3" : "Gurukul", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "38", 
+    "email" : "rip@gmail.com", 
+    "userName" : "ri1234", 
+    "passWord" : "ri12345", 
+    "role" : "DEPARTMENT", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "phoneNumber" : "9825852057", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631f00187e3fe41e1a3888c6"), 
+    "firstName" : "Patel", 
+    "lastName" : "Ronak", 
+    "middleName" : "Riddhi", 
+    "fullName" : "Patel Riddhi Ronak", 
+    "address" : {
+        "addressLine1" : "E-6", 
+        "addressLine2" : "Vishramnagar", 
+        "addressLine3" : "Gurukul", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "28", 
+    "email" : "rrp@gmail.com", 
+    "userName" : "rrp1234", 
+    "passWord" : "rrp1234", 
+    "role" : "DEPARTMENT", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "phoneNumber" : "9825852057", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631f0173f438ae60f2793d65"), 
+    "firstName" : "Patel", 
+    "lastName" : "Jagdish", 
+    "middleName" : "Ronak", 
+    "fullName" : "Patel Ronak Jagdish", 
+    "address" : {
+        "addressLine1" : "E-6", 
+        "addressLine2" : "Vishramnagar", 
+        "addressLine3" : "Gurukul", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "age" : "28", 
+    "email" : "rp@gmail.com", 
+    "userName" : "rjp1234", 
+    "passWord" : "rjp1234", 
+    "role" : "DEPARTMENT", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "phoneNumber" : "9825852057", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.User"
+}
+{ 
+    "_id" : ObjectId("631f0894f438ae60f2793d66"), 
+    "firstName" : "Sharma", 
+    "lastName" : "Janakji", 
+    "middleName" : "Ramchand", 
+    "fullName" : "Sharma Ramchand Janakji", 
+    "address" : {
+        "addressLine1" : "RamVatika", 
+        "addressLine2" : "Ayodhya", 
+        "addressLine3" : "Lokhnow", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380092"
+    }, 
+    "age" : "28", 
+    "email" : "shriram@gmail.com", 
+    "userName" : "rjs1234", 
+    "passWord" : "rjs1234", 
+    "role" : "DEPARTMENT", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "phoneNumber" : "0033116644", 
+    "softDelete" : false, 
+    "_class" : "com.example.sm.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6347da4ee6c06153f9262e79"), 
+    "firstName" : "ayush", 
+    "middleName" : "keyurbhai", 
+    "lastName" : "makvana", 
+    "age" : NumberInt(22), 
+    "email" : "savan123@gmail.com", 
+    "userName" : "ay12", 
+    "address" : {
+        "address" : "xyz 4", 
+        "address2" : "pqr", 
+        "address3" : "abc", 
+        "city" : "ahmedabad", 
+        "state" : "gujarat", 
+        "zipCode" : "336699"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "ayush keyurbhai makvana ", 
+    "mobileNo" : "9911664488", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "birthDate" : ISODate("2000-10-13T00:00:00.000+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("634cfc810f47cb0d76c6f3fc"), 
+    "age" : NumberInt(0), 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "logoutTime" : ISODate("2022-11-09T07:04:46.600+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("634d01430f47cb0d76c6f3fd"), 
+    "age" : NumberInt(0), 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "logoutTime" : ISODate("2022-11-09T07:04:46.603+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("634e50957ad7920836d8c4fe"), 
+    "firstName" : "KiritBhai", 
+    "middleName" : "Mahadavebhai", 
+    "lastName" : "Patel", 
+    "age" : NumberInt(46), 
+    "email" : "kmpatel1709@gmail.com", 
+    "userName" : "Km1709", 
+    "address" : {
+        "address" : "F-7 NeelDip Flat", 
+        "address2" : "VishramNagar", 
+        "address3" : "GhatloDiya", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "role" : "ADMIN", 
+    "fullName" : "KiritBhai Mahadavebhai Patel ", 
+    "mobileNo" : "9428357675", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "birthDate" : ISODate("1976-09-17T00:00:00.000+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("634e51227ad7920836d8c4ff"), 
+    "firstName" : "KiritBhai", 
+    "middleName" : "Mahadavebhai", 
+    "lastName" : "Patel", 
+    "age" : NumberInt(46), 
+    "email" : "km1709@gmail.com", 
+    "userName" : "Km1709", 
+    "address" : {
+        "address" : "F-7 NeelDip Flat", 
+        "address2" : "VishramNagar", 
+        "address3" : "GhatloDiya", 
+        "city" : "Ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "role" : "ADMIN", 
+    "fullName" : "KiritBhai Mahadavebhai Patel ", 
+    "mobileNo" : "9428357675", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "birthDate" : ISODate("1976-09-17T00:00:00.000+0000"), 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6350d7e162b9fc47fe33b683"), 
+    "firstName" : "string", 
+    "middleName" : "gdfg", 
+    "lastName" : "dfg", 
+    "age" : NumberInt(0), 
+    "email" : "sadas@90.com", 
+    "userName" : "asdasd", 
+    "address" : {
+        "address" : "strgdfgdfging", 
+        "address2" : "string", 
+        "address3" : "stdfgdfgring", 
+        "city" : "gdfg", 
+        "state" : "string", 
+        "zipCode" : "380052"
+    }, 
+    "role" : "STUDENT", 
+    "fullName" : "string gdfg dfg ", 
+    "mobileNo" : "9955661133", 
+    "createdBy" : "62ea7609e4eb6b6d0bf0aebc", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "birthDate" : ISODate("2022-10-20T00:00:00.000+0000"), 
+    "login" : false, 
+    "softDelete" : true, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("6368e6278a9a7041b85da253"), 
+    "firstName" : "Pinkesh", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "email" : "savan98@gmail.com", 
+    "userName" : "Pk@1409", 
+    "role" : "ADMIN", 
+    "fullName" : "Savan KiritBhai Patel ", 
+    "otp" : "232759", 
+    "mobileNo" : "9081738141", 
+    "userStatus" : "ACTIVE", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "birthDate" : ISODate("1998-11-07T00:00:00.000+0000"), 
+    "loginTime" : ISODate("2022-11-24T08:43:45.587+0000"), 
+    "logoutTime" : ISODate("2022-11-24T08:43:45.587+0000"), 
+    "otpSendTime" : ISODate("2022-11-24T08:43:45.587+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("638736a67fffd043ec7bcb04"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "email" : "savan90@gmail.com", 
+    "userName" : "Sp@3112", 
+    "address" : [
+        {
+            "address" : "Vishramnagar", 
+            "address2" : "Gurukul", 
+            "address3" : "Memnagar", 
+            "city" : "Ahmedabad", 
+            "state" : "Gujarat", 
+            "zipCode" : "380052"
+        }, 
+        {
+            "address" : "Vishramnagar", 
+            "address2" : "Gurukul", 
+            "address3" : "Memnagar", 
+            "city" : "Ahmedabad", 
+            "state" : "Gujarat", 
+            "zipCode" : "380052"
+        }
+    ], 
+    "role" : "ADMIN", 
+    "fullName" : "Savan Kiritbhai Patel ", 
+    "mobileNo" : "9081738141", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("638736fc559b9d5f10479c05"), 
+    "firstName" : "Savan", 
+    "middleName" : "Kiritbhai", 
+    "lastName" : "Patel", 
+    "email" : "pinkesh9045@gmail.com", 
+    "userName" : "Sp@3112", 
+    "address" : [
+        {
+            "address" : "Vishramnagar", 
+            "address2" : "Gurukul", 
+            "address3" : "Memnagar", 
+            "city" : "Ahmedabad", 
+            "state" : "Gujarat", 
+            "zipCode" : "380052"
+        }, 
+        {
+            "address" : "Vishramnagar", 
+            "address2" : "Gurukul", 
+            "address3" : "Memnagar", 
+            "city" : "Ahmedabad", 
+            "state" : "Gujarat", 
+            "zipCode" : "380052"
+        }
+    ], 
+    "role" : "ADMIN", 
+    "fullName" : "Savan Kiritbhai Patel ", 
+    "mobileNo" : "9081738141", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "login" : false, 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}
+{ 
+    "_id" : ObjectId("63918d94ee68c30a00209b7b"), 
+    "firstName" : "Tapu", 
+    "middleName" : "jethalal", 
+    "lastName" : "Ghada", 
+    "email" : "tapu22@gmail.com", 
+    "userName" : "Tp@1122", 
+    "passWord" : "$2a$12$i/VeqK1O4AXHdt7OV1BTeeLGWJdTY5sGAPB2hJeya6I8XmoRCkEh2", 
+    "address" : [
+        {
+            "address" : "GuluDham", 
+            "address2" : "Pavdergali", 
+            "address3" : "Goregav", 
+            "city" : "Pune", 
+            "state" : "Mumbai", 
+            "zipCode" : "556611"
+        }
+    ], 
+    "role" : "ADMIN", 
+    "fullName" : "Tapu jethalal Ghada ", 
+    "otp" : "318980", 
+    "mobileNo" : "5566998899", 
+    "userStatus" : "ACTIVE", 
+    "balance" : 0.0, 
+    "duplicateEmail" : false, 
+    "emptyEmail" : false, 
+    "importFromExcel" : false, 
+    "cgpi" : 1.0, 
+    "loginTime" : ISODate("2022-12-09T07:23:24.849+0000"), 
+    "logoutTime" : ISODate("2022-12-09T07:23:24.849+0000"), 
+    "otpSendTime" : ISODate("2022-12-09T07:23:24.849+0000"), 
+    "login" : true, 
+    "softDelete" : false, 
+    "results" : [
+        {
+            "semester" : NumberInt(1), 
+            "spi" : 1.0, 
+            "date" : ISODate("2022-12-09T05:34:50.136+0000"), 
+            "year" : NumberInt(2021), 
+            "status" : "ACTIVE"
+        }, 
+        {
+            "semester" : NumberInt(2), 
+            "spi" : 1.0, 
+            "date" : ISODate("2022-12-09T05:35:05.262+0000"), 
+            "year" : NumberInt(2021), 
+            "status" : "ACTIVE"
+        }
+    ], 
+    "_class" : "com.example.authmoduls.auth.model.UserModel"
+}

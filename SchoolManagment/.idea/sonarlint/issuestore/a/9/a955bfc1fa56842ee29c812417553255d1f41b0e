@@ -1,0 +1,40 @@
+
+0
+java:S1220""Move this file to a named package.
+A
+java:S1172",Remove this unused method parameter "smmap".(“†™"
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Ü¾òÍ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¨—±
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Áœt
+V	java:S125"<This block of commented-out lines of code should be removed.(àŸ˜ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ø•Ñÿÿÿÿÿ
+>	java:S108:")Either remove or fill this block of code.(üØô
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áİœš
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ú¥©ùÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(§Øşùÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(æÉÈß
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(°ÉĞE
+:
+java:S1168W"$Return an empty map instead of null.(¥¹ï
+c	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ™
+K
+java:S1172Y"5Remove this unused method parameter "ignoredDmmodel".(æ™
+N	java:S106["9Replace this use of System.out or System.err by a logger.(‘·ÇŸ
+c	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ßÛÊ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(ú¥©ùÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(çƒŸÜşÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(­õ˜
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(½ÆÓ™úÿÿÿÿ
+:
+java:S1168v"$Return an empty map instead of null.(¥¹ï
+h	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æœ‡‰øÿÿÿÿ
+I
+java:S1172x".Remove this unused method parameter "dmmodel".(æœ‡‰øÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(óÜÿ¥
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(ëÒë
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ú¥ˆüÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(Ü¾òÍ
+N	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÓÀº3
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÂèİÜ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ÀÏÁ¯şÿÿÿÿ

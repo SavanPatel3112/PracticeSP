@@ -1,0 +1,706 @@
+{ 
+    "_id" : ObjectId("631ac9db87569453dd4ffe9e"), 
+    "name" : "addUser", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("631ac9db87569453dd4ffe9f"), 
+    "name" : "deleteUser", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("631ac9db87569453dd4ffea0"), 
+    "name" : "updateUser", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("631ac9db87569453dd4ffea1"), 
+    "name" : "updateUsers", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("631ac9db87569453dd4ffea2"), 
+    "name" : "deleteUsers", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632008f89d7db24b8080186d"), 
+    "name" : "importUsers", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e09d"), 
+    "name" : "getResult", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e09e"), 
+    "name" : "getOtp", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e09f"), 
+    "name" : "getEncryptPassword", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT", 
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a0"), 
+    "name" : "forgotPassWord", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a1"), 
+    "name" : "login", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a2"), 
+    "name" : "changePassWord", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a3"), 
+    "name" : "getUser", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a4"), 
+    "name" : "getAllUSer", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a5"), 
+    "name" : "getUserResult", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a6"), 
+    "name" : "getUserToExcel", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a7"), 
+    "name" : "logOut", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT", 
+        "USER"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a8"), 
+    "name" : "getToken", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0a9"), 
+    "name" : "setPassword", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0aa"), 
+    "name" : "getALlUserBYPagination", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0ab"), 
+    "name" : "checkUserAuthentication", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6320426eecb2b7744b25e0ac"), 
+    "name" : "sendResultUserEmail", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e08"), 
+    "name" : "getIdFromToken", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e09"), 
+    "name" : "getValidityOfToken", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e0a"), 
+    "name" : "forgotPassword", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e0b"), 
+    "name" : "getAllUser", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e0c"), 
+    "name" : " getEncryptPassword", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e0d"), 
+    "name" : "addOrUpdateUser", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e0e"), 
+    "name" : "otpVerifications", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e0f"), 
+    "name" : "userUpdate", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e10"), 
+    "name" : "updateUserResult", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e11"), 
+    "name" : "userDelete", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e12"), 
+    "name" : "changePassword", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e13"), 
+    "name" : "deleteUserResult", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e14"), 
+    "name" : "getUserByExcel", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e15"), 
+    "name" : "getUserByRole", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e16"), 
+    "name" : "deleteUserInXls", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e17"), 
+    "name" : "importDataInUser", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e18"), 
+    "name" : "uploadFile", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e19"), 
+    "name" : "getUserPassword", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e1a"), 
+    "name" : "importUsersVerify", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e1b"), 
+    "name" : "addResult", 
+    "roles" : [
+        "ADMIN", 
+        "STUDENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e1c"), 
+    "name" : "otpVerification", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e1d"), 
+    "name" : "uerLogin", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e1e"), 
+    "name" : "sendMailToInvitedUser", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e1f"), 
+    "name" : "getUserByPagination", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e20"), 
+    "name" : "getPublishedMessage", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("632bf24113a47509150a9e21"), 
+    "name" : "sendUserResultEmail", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("633c1be8679c6517b72c0529"), 
+    "name" : "bookPurchase ", 
+    "roles" : [
+        "STUDENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("633c1be8679c6517b72c052a"), 
+    "name" : "addOrUpdateBook", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("633e63a889a6b03b5f98e5bd"), 
+    "name" : "bookPurchaseLog ", 
+    "roles" : [
+        "STUDENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6340111df0b67b2206cc5984"), 
+    "name" : "bookSaleLog ", 
+    "roles" : [
+        "STUDENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6343e2c3bb3c035165b79e7e"), 
+    "name" : "getBookDataByExcel", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6346b1e5405af620c593a8d8"), 
+    "name" : "resultDetailByEmail", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6346b1e5405af620c593a8d9"), 
+    "name" : "getUserListByPagination", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6346b1e5405af620c593a8da"), 
+    "name" : "userLogin", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("63480e2f56f33a3e7d43a17b"), 
+    "name" : "getBookListByPagination", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("63480e2f56f33a3e7d43a17c"), 
+    "name" : "getALlBookBYPagination", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("634f84076a57934cdd3a6a7d"), 
+    "name" : "getUserResultByMinMaxMark", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("634f861a9c8f4b44bc735e6e"), 
+    "name" : "getUserResultBySemester", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("634f8af89c8f4b44bc735e8b"), 
+    "name" : "getUserResultByDate", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("634fdf452293893195b68429"), 
+    "name" : "getAllUserByPagination", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("634ffa148db37f1fd5f30d97"), 
+    "name" : "getUserBookDetailsByPagination", 
+    "roles" : [
+        "ADMIN", 
+        "DEPARTMENT"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("634ffb33fef9d91aa26dcc52"), 
+    "name" : "userChartApi", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("635227ac706bbd351205d211"), 
+    "name" : "getUserResultStatusByPagination", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("638d93e2a92c8a1dccd4316c"), 
+    "name" : "deleteRecipe", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("638d93e2a92c8a1dccd4316d"), 
+    "name" : "addOrUpdateRecipe", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("638d93e2a92c8a1dccd4316e"), 
+    "name" : "getAllRecipe", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("638d93e2a92c8a1dccd4316f"), 
+    "name" : "getRecipe", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("638d93e2a92c8a1dccd43170"), 
+    "name" : "recipeUpdate", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6396b99fc369f62fc4d8c2e9"), 
+    "name" : "addShopping", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6396bf0dc369f62fc4d8c30b"), 
+    "name" : "getShoppingList", 
+    "roles" : [
+        "USER"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6396bf3ac369f62fc4d8c30f"), 
+    "name" : "deleteShoppingList", 
+    "roles" : [
+        "USER"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6396c10fc369f62fc4d8c313"), 
+    "name" : "updateShopping", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6396cb3bc369f62fc4d8c325"), 
+    "name" : "addUsers", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6396dc1a8e97d23bb2f9f257"), 
+    "name" : "addOrUpdateShopping", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("63997336b50c0f59463559d3"), 
+    "name" : "shoppingList ", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("63997896c369f63cb017d6e0"), 
+    "name" : "shoppingList", 
+    "roles" : [
+        "USER"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6399a1c11ad8872bdbb84cb2"), 
+    "name" : "getUserBookData", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("6399c780c369f63cb017d73b"), 
+    "name" : "generateQRCodeImage", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.sm.common.modal.RestAPI"
+}
+{ 
+    "_id" : ObjectId("639ab25ea5d94e372dbf01d4"), 
+    "name" : "generatePdfFile", 
+    "roles" : [
+        "USER"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("639ffc65cb86a248926a5288"), 
+    "name" : "addConfiguration", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("639ffc65cb86a248926a5289"), 
+    "name" : "getConfigurationDetails", 
+    "roles" : [
+        "ADMIN"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}
+{ 
+    "_id" : ObjectId("63a00ebbd904631c4136bc54"), 
+    "name" : "getAllRecipeByPagination", 
+    "roles" : [
+        "ANONYMOUS"
+    ], 
+    "_class" : "com.example.authmoduls.common.decorator.RestAPI"
+}

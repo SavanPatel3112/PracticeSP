@@ -1,0 +1,43 @@
+
+k
+java:S1192X"PDefine a constant instead of duplicating this literal "OpeningAccount:" 3 times.(Ë™•“ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+k	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŞßúùÿÿÿÿ
+k	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üúŸ‡ıÿÿÿÿ
+
+java:S4165&"fRemove this useless assignment; "partyMap" already holds the assigned value along all execution paths.(²œÔÎûÿÿÿÿ
+|
+java:S4165*"fRemove this useless assignment; "partyMap" already holds the assigned value along all execution paths.(”±ó•
+|
+java:S4165""fRemove this useless assignment; "partyMap" already holds the assigned value along all execution paths.(†¶Ù¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º•‚ ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰«¾¦
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(¼¾
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¾®Ïõşÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(±”«éûÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Ú¨£üÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(Ë™•“ÿÿÿÿÿ
+7
+java:S1116X"Remove this empty statement.(Ë™•“ÿÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(šºïÖüÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(Áš‹ïÿÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(÷¼ıÊùÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(î»É—
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(ÛçÒÄ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(µ²Ç
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ã‡ú—üÿÿÿÿ
+7
+java:S1116u"Remove this empty statement.( Õéÿÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(‰¸Å—ÿÿÿÿÿ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(»÷­n
+W	java:S125‡"<This block of commented-out lines of code should be removed.(à½½€ıÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ŒÌš øÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÂôĞšÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ£Èçşÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÈœ”
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(û ×Ë
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(À‡™Ü
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(†»éñ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÂÈœ”
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(„¥‚¼
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(úÕ”İÿÿÿÿÿ

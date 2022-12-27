@@ -1,0 +1,94 @@
+
+y
+java:S1192S"^Define a constant instead of duplicating this literal "Do you want to store more?y/n" 3 times.(Ú¨£üÿÿÿÿ
+\
+java:S1192>"FDefine a constant instead of duplicating this literal "Name:" 3 times.(¹‚ú
+f
+java:S1192>"PDefine a constant instead of duplicating this literal "OpeningAccount:" 3 times.(¹‚ú
+d
+java:S1192€"HDefine a constant instead of duplicating this literal "orderID" 4 times.(Ÿ˜§Âûÿÿÿÿ
+k
+java:S1192P"PDefine a constant instead of duplicating this literal "Enter quantity:" 4 times.(š‘¤ÿÿÿÿÿ
+f
+java:S1192€"JDefine a constant instead of duplicating this literal "quantity:" 4 times.(Ÿ˜§Âûÿÿÿÿ
+h
+java:S1192€"LDefine a constant instead of duplicating this literal "partyName: " 4 times.(Ÿ˜§Âûÿÿÿÿ
+e
+java:S1192>"ODefine a constant instead of duplicating this literal "ContactNumber:" 3 times.(¹‚ú
+b
+java:S1192€"FDefine a constant instead of duplicating this literal "Price" 6 times.(Ÿ˜§Âûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÍ¶ûÿÿÿÿ
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Š²“ûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïÇ¸Í
+…
+java:S4165 "oRemove this useless assignment; "sales_purchasemap" already holds the assigned value along all execution paths.(¸›³
+…
+java:S4165"oRemove this useless assignment; "sales_purchasemap" already holds the assigned value along all execution paths.(í§¬µ
+Š
+java:S4165("oRemove this useless assignment; "sales_purchasemap" already holds the assigned value along all execution paths.(Ã³Şøÿÿÿÿ
+h	java:S116
+"SRename this field "party_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥øœÕ
+j	java:S116
+"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥øœÕ
+n	java:S116
+"YRename this field "purchase_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥øœÕ
+]
+java:S1659
+"GDeclare "product_id" and all following declarations on a separate line.(¥øœÕ
+5
+java:S1659"Declare "m" on a separate line.(†™ÏÃ
+a
+java:S1659"FDeclare "partyName" and all following declarations on a separate line.(Ã™Â«ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å«¸Ûûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©•ó¶úÿÿÿÿ
+<	java:S131""Add a default case to this switch.(×†ôşşÿÿÿÿ
+R
+java:S11727"<Remove these unused method parameters "cmap", "purchaseMap".(ú áú
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(´öÛÏ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(¹‚ú
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ŸĞ›¬
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Ïõ£²
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(íúÊúÿÿÿÿ
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(å›ßp
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(š‘¤ÿÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(Ú¨£üÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(š‘¤ÿÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ú¨£üÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(š‘¤ÿÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(Ú¨£üÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(Ÿ˜§Âûÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(Ÿ˜§Âûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(İÆ¡¾øÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(“ñ«ùÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(İÆ¡¾øÿÿÿÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(Ÿ˜§Âûÿÿÿÿ
+g
+java:S1172Á"PRemove these unused method parameters "cmap", "pmap", "partyMap", "purchaseMap".(ÕƒÒ®
+N	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ğÂ¿n
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(–»àÔ
+Q
+java:S1172Ú"5Remove these unused method parameters "cmap", "pmap".(ñƒ‰Šûÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(Ë™•“ÿÿÿÿÿ
+8
+java:S1116á"Remove this empty statement.(Ë™•“ÿÿÿÿÿ
+O	java:S106ä"9Replace this use of System.out or System.err by a logger.(ï„±ˆ
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ê³¯Êıÿÿÿÿ
+`
+java:S1172õ"DRemove these unused method parameters "cmap", "pmap", "purchaseMap".(à÷Ç×úÿÿÿÿ
+N	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ëàä	
+O	java:S106û"9Replace this use of System.out or System.err by a logger.(ÿØ¡¡
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(Ë™•“ÿÿÿÿÿ
+8
+java:S1116ÿ"Remove this empty statement.(Ë™•“ÿÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(ï„±ˆ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(åĞ¦ø
+T	java:S106"9Replace this use of System.out or System.err by a logger.(â”ğÏÿÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(‚æ÷—øÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(š‘¤ÿÿÿÿÿ
+g
+java:S1172£"PRemove these unused method parameters "cmap", "pmap", "partyMap", "purchaseMap".(…”¦¿
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(úÕ”İÿÿÿÿÿ

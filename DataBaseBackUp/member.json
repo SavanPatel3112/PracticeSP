@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("632d4cf68685802b4645020a"), 
+    "firstName" : "Patel", 
+    "middleName" : "Savan", 
+    "lastName" : "Kiritbhai", 
+    "email" : "savan9045@gmail.com", 
+    "phoneNumber" : "9081738141", 
+    "address" : {
+        "address" : "NeeldDip", 
+        "city" : "ahmedabad", 
+        "state" : "Gujarat", 
+        "zipCode" : "380052"
+    }, 
+    "plan" : "LIFETIME", 
+    "date" : ISODate("2022-09-23T06:06:46.217+0000"), 
+    "softDelete" : false, 
+    "_class" : "com.example.authmoduls.cc.modal.MemberModel"
+}

@@ -1,0 +1,38 @@
+db.getCollection("users").aggregate([
+  {
+    $addFields: {
+      search: {
+        $concat: [
+          { $ifNull: ["$userName", ""] },
+          "|@|",
+          { $ifNull: ["$passWord", ""] },
+          "|@|",
+          { $ifNull: ["$email", ""] },
+          "|@|",
+          { $ifNull: ["$lastName", ""] },
+          "|@|",
+          { $ifNull: ["$middleName", ""] },
+          "|@|",
+          { $ifNull: ["$firstName", ""] },
+          "|@|",
+          { $ifNull: ["$fullName", ""] },
+          "|@|",
+          { $ifNull: ["$address.address1", ""] },
+          "|@|",
+          { $ifNull: ["$address.address2", ""] },
+          "|@|",
+          { $ifNull: ["$address.address3", ""] },
+          "|@|",
+          { $ifNull: ["$address.city", ""] },
+          "|@|",
+          { $ifNull: ["$address.state", ""] },
+          "|@|",
+          { $ifNull: ["$address.zipCode", ""] },
+        ],
+      },
+    },
+  },
+  { $match: { softDelete: false } },
+  { $group: { _id: null, count: { $sum: 1 } } },
+  { $project: { count: 1 } },
+]);
